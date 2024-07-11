@@ -1,0 +1,286 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\90552\\source\\repos\\Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ACC54C2D-98FD-4492-AA77-3BF74137928F}|Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2.csproj|c:\\users\\90552\\source\\repos\\ay\u00E7i\u00E7e\u011Fi pansiyon uygulamas\u0131 2\\ay\u00E7i\u00E7e\u011Fi pansiyon uygulamas\u0131 2\\frmm\u00FCsteriler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACC54C2D-98FD-4492-AA77-3BF74137928F}|Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2.csproj|solutionrelative:ay\u00E7i\u00E7e\u011Fi pansiyon uygulamas\u0131 2\\frmm\u00FCsteriler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACC54C2D-98FD-4492-AA77-3BF74137928F}|Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2.csproj|C:\\Users\\90552\\source\\repos\\Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\ay\u00E7i\u00E7e\u011Fi pansiyon uygulamas\u0131 2\\frmanaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACC54C2D-98FD-4492-AA77-3BF74137928F}|Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2.csproj|solutionrelative:ay\u00E7i\u00E7e\u011Fi pansiyon uygulamas\u0131 2\\frmanaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACC54C2D-98FD-4492-AA77-3BF74137928F}|Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2.csproj|C:\\Users\\90552\\source\\repos\\Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\ay\u00E7i\u00E7e\u011Fi pansiyon uygulamas\u0131 2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACC54C2D-98FD-4492-AA77-3BF74137928F}|Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2.csproj|solutionrelative:ay\u00E7i\u00E7e\u011Fi pansiyon uygulamas\u0131 2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACC54C2D-98FD-4492-AA77-3BF74137928F}|Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2.csproj|C:\\Users\\90552\\source\\repos\\Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\ay\u00E7i\u00E7e\u011Fi pansiyon uygulamas\u0131 2\\frmanaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ACC54C2D-98FD-4492-AA77-3BF74137928F}|Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2.csproj|solutionrelative:ay\u00E7i\u00E7e\u011Fi pansiyon uygulamas\u0131 2\\frmanaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACC54C2D-98FD-4492-AA77-3BF74137928F}|Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2.csproj|C:\\Users\\90552\\source\\repos\\Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\ay\u00E7i\u00E7e\u011Fi pansiyon uygulamas\u0131 2\\frmradyodinle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ACC54C2D-98FD-4492-AA77-3BF74137928F}|Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2.csproj|solutionrelative:ay\u00E7i\u00E7e\u011Fi pansiyon uygulamas\u0131 2\\frmradyodinle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACC54C2D-98FD-4492-AA77-3BF74137928F}|Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2.csproj|C:\\Users\\90552\\source\\repos\\Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\ay\u00E7i\u00E7e\u011Fi pansiyon uygulamas\u0131 2\\frmradyodinle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACC54C2D-98FD-4492-AA77-3BF74137928F}|Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2.csproj|solutionrelative:ay\u00E7i\u00E7e\u011Fi pansiyon uygulamas\u0131 2\\frmradyodinle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACC54C2D-98FD-4492-AA77-3BF74137928F}|Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2.csproj|C:\\Users\\90552\\source\\repos\\Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\ay\u00E7i\u00E7e\u011Fi pansiyon uygulamas\u0131 2\\frmgazeteler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACC54C2D-98FD-4492-AA77-3BF74137928F}|Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2.csproj|solutionrelative:ay\u00E7i\u00E7e\u011Fi pansiyon uygulamas\u0131 2\\frmgazeteler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACC54C2D-98FD-4492-AA77-3BF74137928F}|Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2.csproj|C:\\Users\\90552\\source\\repos\\Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\ay\u00E7i\u00E7e\u011Fi pansiyon uygulamas\u0131 2\\frmgazeteler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ACC54C2D-98FD-4492-AA77-3BF74137928F}|Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2.csproj|solutionrelative:ay\u00E7i\u00E7e\u011Fi pansiyon uygulamas\u0131 2\\frmgazeteler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACC54C2D-98FD-4492-AA77-3BF74137928F}|Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2.csproj|C:\\Users\\90552\\source\\repos\\Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\ay\u00E7i\u00E7e\u011Fi pansiyon uygulamas\u0131 2\\frmodalar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACC54C2D-98FD-4492-AA77-3BF74137928F}|Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2.csproj|solutionrelative:ay\u00E7i\u00E7e\u011Fi pansiyon uygulamas\u0131 2\\frmodalar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACC54C2D-98FD-4492-AA77-3BF74137928F}|Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2.csproj|C:\\Users\\90552\\source\\repos\\Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\ay\u00E7i\u00E7e\u011Fi pansiyon uygulamas\u0131 2\\frmyenimusteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACC54C2D-98FD-4492-AA77-3BF74137928F}|Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2.csproj|solutionrelative:ay\u00E7i\u00E7e\u011Fi pansiyon uygulamas\u0131 2\\frmyenimusteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACC54C2D-98FD-4492-AA77-3BF74137928F}|Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2.csproj|C:\\Users\\90552\\source\\repos\\Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\ay\u00E7i\u00E7e\u011Fi pansiyon uygulamas\u0131 2\\frmm\u00FCsteriler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ACC54C2D-98FD-4492-AA77-3BF74137928F}|Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2.csproj|solutionrelative:ay\u00E7i\u00E7e\u011Fi pansiyon uygulamas\u0131 2\\frmm\u00FCsteriler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACC54C2D-98FD-4492-AA77-3BF74137928F}|Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2.csproj|C:\\Users\\90552\\source\\repos\\Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\ay\u00E7i\u00E7e\u011Fi pansiyon uygulamas\u0131 2\\frmyenimusteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ACC54C2D-98FD-4492-AA77-3BF74137928F}|Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2.csproj|solutionrelative:ay\u00E7i\u00E7e\u011Fi pansiyon uygulamas\u0131 2\\frmyenimusteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACC54C2D-98FD-4492-AA77-3BF74137928F}|Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2.csproj|C:\\Users\\90552\\source\\repos\\Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\ay\u00E7i\u00E7e\u011Fi pansiyon uygulamas\u0131 2\\frmodalar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ACC54C2D-98FD-4492-AA77-3BF74137928F}|Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2.csproj|solutionrelative:ay\u00E7i\u00E7e\u011Fi pansiyon uygulamas\u0131 2\\frmodalar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACC54C2D-98FD-4492-AA77-3BF74137928F}|Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2.csproj|C:\\Users\\90552\\source\\repos\\Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\ay\u00E7i\u00E7e\u011Fi pansiyon uygulamas\u0131 2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ACC54C2D-98FD-4492-AA77-3BF74137928F}|Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2.csproj|solutionrelative:ay\u00E7i\u00E7e\u011Fi pansiyon uygulamas\u0131 2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACC54C2D-98FD-4492-AA77-3BF74137928F}|Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2.csproj|C:\\Users\\90552\\source\\repos\\Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\ay\u00E7i\u00E7e\u011Fi pansiyon uygulamas\u0131 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACC54C2D-98FD-4492-AA77-3BF74137928F}|Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2.csproj|solutionrelative:ay\u00E7i\u00E7e\u011Fi pansiyon uygulamas\u0131 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACC54C2D-98FD-4492-AA77-3BF74137928F}|Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2.csproj|C:\\Users\\90552\\source\\repos\\Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\ay\u00E7i\u00E7e\u011Fi pansiyon uygulamas\u0131 2\\frmanaform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACC54C2D-98FD-4492-AA77-3BF74137928F}|Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2.csproj|solutionrelative:ay\u00E7i\u00E7e\u011Fi pansiyon uygulamas\u0131 2\\frmanaform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmM\u00FCsteriler.cs",
+              "DocumentMoniker": "C:\\Users\\90552\\source\\repos\\Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\FrmM\u00FCsteriler.cs",
+              "RelativeDocumentMoniker": "Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\FrmM\u00FCsteriler.cs",
+              "ToolTip": "C:\\Users\\90552\\source\\repos\\Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\FrmM\u00FCsteriler.cs",
+              "RelativeToolTip": "Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\FrmM\u00FCsteriler.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAswB8AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T15:22:21.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmRadyoDinle.cs",
+              "DocumentMoniker": "C:\\Users\\90552\\source\\repos\\Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\FrmRadyoDinle.cs",
+              "RelativeDocumentMoniker": "Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\FrmRadyoDinle.cs",
+              "ToolTip": "C:\\Users\\90552\\source\\repos\\Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\FrmRadyoDinle.cs",
+              "RelativeToolTip": "Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\FrmRadyoDinle.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAcwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T12:43:26.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmRadyoDinle.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\90552\\source\\repos\\Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\FrmRadyoDinle.cs",
+              "RelativeDocumentMoniker": "Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\FrmRadyoDinle.cs",
+              "ToolTip": "C:\\Users\\90552\\source\\repos\\Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\FrmRadyoDinle.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\FrmRadyoDinle.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T12:35:31.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmAnaForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\90552\\source\\repos\\Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\FrmAnaForm.cs",
+              "RelativeDocumentMoniker": "Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\FrmAnaForm.cs",
+              "ToolTip": "C:\\Users\\90552\\source\\repos\\Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\FrmAnaForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\FrmAnaForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T11:16:42.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmGazeteler.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\90552\\source\\repos\\Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\FrmGazeteler.cs",
+              "RelativeDocumentMoniker": "Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\FrmGazeteler.cs",
+              "ToolTip": "C:\\Users\\90552\\source\\repos\\Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\FrmGazeteler.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\FrmGazeteler.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T13:00:54.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmOdalar.cs",
+              "DocumentMoniker": "C:\\Users\\90552\\source\\repos\\Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\FrmOdalar.cs",
+              "RelativeDocumentMoniker": "Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\FrmOdalar.cs",
+              "ToolTip": "C:\\Users\\90552\\source\\repos\\Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\FrmOdalar.cs",
+              "RelativeToolTip": "Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\FrmOdalar.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAAEQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T12:06:51.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmYeniMusteri.cs",
+              "DocumentMoniker": "C:\\Users\\90552\\source\\repos\\Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\FrmYeniMusteri.cs",
+              "RelativeDocumentMoniker": "Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\FrmYeniMusteri.cs",
+              "ToolTip": "C:\\Users\\90552\\source\\repos\\Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\FrmYeniMusteri.cs",
+              "RelativeToolTip": "Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\FrmYeniMusteri.cs",
+              "ViewState": "AQIAAJkAAAAAAAAAAAAAAL0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T15:03:27.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmGazeteler.cs",
+              "DocumentMoniker": "C:\\Users\\90552\\source\\repos\\Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\FrmGazeteler.cs",
+              "RelativeDocumentMoniker": "Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\FrmGazeteler.cs",
+              "ToolTip": "C:\\Users\\90552\\source\\repos\\Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\FrmGazeteler.cs",
+              "RelativeToolTip": "Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\FrmGazeteler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T13:04:54.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmAnaForm.cs",
+              "DocumentMoniker": "C:\\Users\\90552\\source\\repos\\Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\FrmAnaForm.cs",
+              "RelativeDocumentMoniker": "Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\FrmAnaForm.cs",
+              "ToolTip": "C:\\Users\\90552\\source\\repos\\Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\FrmAnaForm.cs",
+              "RelativeToolTip": "Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\FrmAnaForm.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAmwCwAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T11:49:45.73Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\90552\\source\\repos\\Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\Form1.cs",
+              "RelativeDocumentMoniker": "Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\Form1.cs",
+              "ToolTip": "C:\\Users\\90552\\source\\repos\\Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\Form1.cs",
+              "RelativeToolTip": "Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\Form1.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAUwBgAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T14:31:28.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmM\u00FCsteriler.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\90552\\source\\repos\\Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\FrmM\u00FCsteriler.cs",
+              "RelativeDocumentMoniker": "Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\FrmM\u00FCsteriler.cs",
+              "ToolTip": "C:\\Users\\90552\\source\\repos\\Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\FrmM\u00FCsteriler.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\FrmM\u00FCsteriler.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T15:10:54.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrmYeniMusteri.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\90552\\source\\repos\\Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\FrmYeniMusteri.cs",
+              "RelativeDocumentMoniker": "Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\FrmYeniMusteri.cs",
+              "ToolTip": "C:\\Users\\90552\\source\\repos\\Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\FrmYeniMusteri.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\FrmYeniMusteri.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T14:39:47.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FrmOdalar.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\90552\\source\\repos\\Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\FrmOdalar.cs",
+              "RelativeDocumentMoniker": "Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\FrmOdalar.cs",
+              "ToolTip": "C:\\Users\\90552\\source\\repos\\Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\FrmOdalar.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\FrmOdalar.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T12:02:51.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\90552\\source\\repos\\Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\Form1.cs",
+              "RelativeDocumentMoniker": "Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\Form1.cs",
+              "ToolTip": "C:\\Users\\90552\\source\\repos\\Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T14:22:59.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\90552\\source\\repos\\Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\Program.cs",
+              "RelativeDocumentMoniker": "Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\Program.cs",
+              "ToolTip": "C:\\Users\\90552\\source\\repos\\Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\Program.cs",
+              "RelativeToolTip": "Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAASwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T10:51:18.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FrmAnaForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\90552\\source\\repos\\Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\FrmAnaForm.Designer.cs",
+              "RelativeDocumentMoniker": "Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\FrmAnaForm.Designer.cs",
+              "ToolTip": "C:\\Users\\90552\\source\\repos\\Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\FrmAnaForm.Designer.cs",
+              "RelativeToolTip": "Ay\u00C7i\u00E7e\u011Fi Pansiyon Uygulamas\u0131 2\\FrmAnaForm.Designer.cs",
+              "ViewState": "AQIAAJAAAAAAAAAAAAAEwMcAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T12:09:46.843Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

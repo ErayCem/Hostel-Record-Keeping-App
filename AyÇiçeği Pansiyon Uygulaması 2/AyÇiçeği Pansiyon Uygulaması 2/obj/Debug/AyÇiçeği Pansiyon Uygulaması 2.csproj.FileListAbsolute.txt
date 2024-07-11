@@ -1,0 +1,21 @@
+C:\Users\90552\source\repos\AyÇiçeği Pansiyon Uygulaması 2\AyÇiçeği Pansiyon Uygulaması 2\bin\Debug\AyÇiçeği Pansiyon Uygulaması 2.exe.config
+C:\Users\90552\source\repos\AyÇiçeği Pansiyon Uygulaması 2\AyÇiçeği Pansiyon Uygulaması 2\bin\Debug\AyÇiçeği Pansiyon Uygulaması 2.exe
+C:\Users\90552\source\repos\AyÇiçeği Pansiyon Uygulaması 2\AyÇiçeği Pansiyon Uygulaması 2\bin\Debug\AyÇiçeği Pansiyon Uygulaması 2.pdb
+C:\Users\90552\source\repos\AyÇiçeği Pansiyon Uygulaması 2\AyÇiçeği Pansiyon Uygulaması 2\obj\Debug\AyÇiçeği Pansiyon Uygulaması 2.csproj.AssemblyReference.cache
+C:\Users\90552\source\repos\AyÇiçeği Pansiyon Uygulaması 2\AyÇiçeği Pansiyon Uygulaması 2\obj\Debug\AyÇiçeği_Pansiyon_Uygulaması_2.FrmYeniMusteri.resources
+C:\Users\90552\source\repos\AyÇiçeği Pansiyon Uygulaması 2\AyÇiçeği Pansiyon Uygulaması 2\obj\Debug\AyÇiçeği_Pansiyon_Uygulaması_2.Properties.Resources.resources
+C:\Users\90552\source\repos\AyÇiçeği Pansiyon Uygulaması 2\AyÇiçeği Pansiyon Uygulaması 2\obj\Debug\AyÇiçeği Pansiyon Uygulaması 2.csproj.GenerateResource.cache
+C:\Users\90552\source\repos\AyÇiçeği Pansiyon Uygulaması 2\AyÇiçeği Pansiyon Uygulaması 2\obj\Debug\AyÇiçeği Pansiyon Uygulaması 2.csproj.CoreCompileInputs.cache
+C:\Users\90552\source\repos\AyÇiçeği Pansiyon Uygulaması 2\AyÇiçeği Pansiyon Uygulaması 2\obj\Debug\AyÇiçeği Pansiyon Uygulaması 2.exe
+C:\Users\90552\source\repos\AyÇiçeği Pansiyon Uygulaması 2\AyÇiçeği Pansiyon Uygulaması 2\obj\Debug\AyÇiçeği Pansiyon Uygulaması 2.pdb
+C:\Users\90552\source\repos\AyÇiçeği Pansiyon Uygulaması 2\AyÇiçeği Pansiyon Uygulaması 2\obj\Debug\AyÇiçeği_Pansiyon_Uygulaması_2.FrmAdminGiris.resources
+C:\Users\90552\source\repos\AyÇiçeği Pansiyon Uygulaması 2\AyÇiçeği Pansiyon Uygulaması 2\obj\Debug\AyÇiçeği_Pansiyon_Uygulaması_2.FrmAnaForm.resources
+C:\Users\90552\source\repos\AyÇiçeği Pansiyon Uygulaması 2\AyÇiçeği Pansiyon Uygulaması 2\obj\Debug\AyÇiçeği_Pansiyon_Uygulaması_2.FrmOdalar.resources
+C:\Users\90552\source\repos\AyÇiçeği Pansiyon Uygulaması 2\AyÇiçeği Pansiyon Uygulaması 2\obj\Debug\AyÇiçeği_Pansiyon_Uygulaması_2.FrmMüsteriler.resources
+C:\Users\90552\source\repos\AyÇiçeği Pansiyon Uygulaması 2\AyÇiçeği Pansiyon Uygulaması 2\bin\Debug\Interop.WMPLib.dll
+C:\Users\90552\source\repos\AyÇiçeği Pansiyon Uygulaması 2\AyÇiçeği Pansiyon Uygulaması 2\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\90552\source\repos\AyÇiçeği Pansiyon Uygulaması 2\AyÇiçeği Pansiyon Uygulaması 2\obj\Debug\Interop.WMPLib.dll
+C:\Users\90552\source\repos\AyÇiçeği Pansiyon Uygulaması 2\AyÇiçeği Pansiyon Uygulaması 2\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\90552\source\repos\AyÇiçeği Pansiyon Uygulaması 2\AyÇiçeği Pansiyon Uygulaması 2\obj\Debug\AyÇiçeği Pansiyon Uygulaması 2.csproj.ResolveComReference.cache
+C:\Users\90552\source\repos\AyÇiçeği Pansiyon Uygulaması 2\AyÇiçeği Pansiyon Uygulaması 2\obj\Debug\AyÇiçeği_Pansiyon_Uygulaması_2.FrmRadyoDinle.resources
+C:\Users\90552\source\repos\AyÇiçeği Pansiyon Uygulaması 2\AyÇiçeği Pansiyon Uygulaması 2\obj\Debug\AyÇiçeği_Pansiyon_Uygulaması_2.FrmGazeteler.resources
